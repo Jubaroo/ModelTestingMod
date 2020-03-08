@@ -5,6 +5,7 @@
 **Usage:**
 To use this mod, you must have already created a graphics pack containing the model that is intended to be used in the game. 
 The pack must include a model, a texture (if applicable), and a mappings file.
+Simply name the models like shown in the example below starting with **model.test.0** for the first item. You can have a maximum of 10 items at one time to test.
 
 **Example of how the mappings should look:**
 
