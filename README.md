@@ -4,7 +4,7 @@
 
 **Usage:**
 To use this mod, you must have already created a graphics pack containing the model that is intended to be used in the game. 
-The pack must include a model, a texture, and a mappings file.
+The pack must include a model, a texture (if applicable), and a mappings file.
 
 **Example of how the mappings should look:**
 
